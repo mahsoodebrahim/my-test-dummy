@@ -1,0 +1,22 @@
+{
+  "name": "my-test-dummy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahsoodebrahim/my-test-dummy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mahsoodebrahim/my-test-dummy/issues"
+  },
+  "homepage": "https://github.com/mahsoodebrahim/my-test-dummy#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
